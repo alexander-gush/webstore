@@ -54,6 +54,12 @@ npm run build
 npm run build:all
 ```
 
+### Produces a production-ready bundle in the dist/ directory and start Node server for Windows
+
+```
+npm run build:all:windows
+```
+
 ## Backend
 
 ### Technology stack:
